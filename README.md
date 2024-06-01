@@ -1,9 +1,7 @@
 # Weather-App
 This is a weather application built using HTML, CSS, and JavaScript. It utilizes the OpenWeather API to fetch real-time weather data and presents it in a user-friendly interface.
 
-Links:
 
-https://bhattk64.github.io/Weather-App/
 
 Features:
 
